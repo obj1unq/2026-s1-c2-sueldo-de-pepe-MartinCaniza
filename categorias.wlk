@@ -42,7 +42,10 @@ object vendedor{
 
 }
 
+	//variable con la categoria en medio tiempo¿?
+
 object medioTiempo{
+
 
 	method categoriaBase(categoria){
 
